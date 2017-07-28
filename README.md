@@ -1,0 +1,2 @@
+# html5_createJs
+利用createJs的抢红包小游戏demo
